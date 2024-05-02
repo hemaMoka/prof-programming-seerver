@@ -1,0 +1,51 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "email": "ibrahimmohamed@gmail.com",
+      "phone": "01284954021",
+      "password": "12345"
+    }
+  ],
+  "fronr-end":[
+    {
+      "id":1,
+      "title":"HTML",
+      "desc":"To start your life in the field of the Web, you must learn the language of page design, which is indispensable whether you are a Designer or Developer, which is the HTML language. You will find the educational course with all the references you need, as well as many exercises and ideas.",
+      "link":"https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji"
+    },
+    {
+      "id":2,
+      "title":"CSS",
+      "desc":"CSS is the language responsible for formatting web pages. It allows you to use colors, fonts, dimensions, and everything that makes the page look beautiful that you see. It is of course indispensable. You will find the educational course with all the references you need, as well as many exercises and ideas.",
+      "link":"https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe"
+    },
+    {
+      "id":3,
+      "title":"JavaScript",
+      "desc":"A complete bootcamp that contains everything you want from the language and its add-ons while learning ECMAScript standards",
+      "link":"https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv"
+    },
+    {
+      "id":4,
+      "title":"Bootstrap",
+      "desc":"CSS Framework",
+      "link":"https://www.youtube.com/watch?v=9mdGUKFu5OQ&list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ"
+    }
+  ],
+  "back-end":[
+    {
+      "id":1,
+      "title":"PHP ",
+      "desc":"PHP is one of the most popular languages ​​for building applications and websites. It is a Scripting language and has great support. It is free and very easy to learn. Many international websites are programmed in this language, and the educational course here will be very useful to you in mastering the language, God willing.",
+      "link":"https://www.youtube.com/watch?v=-u9_T_CLZHY&list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM"
+    },
+    {
+      "id":2,
+      "title":"MySQL",
+      "desc":"MySQL databases are among the most popular databases that you will deal with when creating a web application, and they are responsible for dealing with the database of your application or project and sending and receiving data from it. It is one of the most famous rules that deal with the PHP language and is commonly used with the language.",
+      "link":"https://www.youtube.com/watch?v=DftlOK7fCtc&list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9"
+    }
+  ]
+}
